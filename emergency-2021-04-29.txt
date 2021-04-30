@@ -5,9 +5,9 @@ EMERGENCY: DO NOT TRUST THE DOMAIN 'dark.fail' RIGHT NOW! My domain name was hij
 
 My .onion I am in full control of. I am in control of all of my servers and all of my keys.
 
-It appears a phisher transferred our domains from Nja.la to Namecheap without my permission despite 2FA being enabled on Nja.la. If your registrar is Nja.la be very careful right now.
+It appears a phisher transferred our domains from Njal.la to Namecheap without my permission despite 2FA being enabled on Njal.la. If your registrar is Njal.la be very careful right now. They sent me no emails throughout this process.
 
-I urgently need the community's help in contacting Namecheap and Nja.la to give me back control of my domain.
+I urgently need the community's help in contacting Namecheap and Njal.la to give me back control of my domain.
 
 Do not send any emails to "hello@dark.fail" until further notice. Do not trust any links on my clearnet site. I am working to regain access to my Twitter.
 
@@ -26,17 +26,17 @@ Sorry for the disruption in service and trust.
 DarkDotFail
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEfW0DbC7R6OyjEztdZcgjJbAZcsUFAmCLNfYACgkQZcgjJbAZ
-csWxow//bOnKHLrKO0ps5FZ4rcqxZbl8COEX9caqC2rtuqrch+5tYt+qjZBy932L
-0USVOFJ2ZGThVkai3UJOah8siRWA0W8kjYPWm0hrTxdxU/NwABP1P0YytBxI22D9
-ETkXeZpvK/VepI1ZSZZidB6O6HufQjxUeNKBYnq8pBz85ihoj+P+semKzWrdV0NC
-ewKBpGWXhpkB0HP6SQF6DCvgCHNvJWX40pOTUOHhmCxGhat1WWTy4lNALmv0mLCU
-Cj/iJ2kz2G03Kinwl1an9kTU6vpDILJwarJR6sga8/2AXg8SwHfMfxEsFLPRrVD0
-Zbw5SlKnz4ZjfqqxAj7rdWA2s/oz2b0o0s0mY8eE/3ZBPpkOLESmMb+nW9rojJEO
-P2Ca68zNjQEHDmJvbAvp1Bp3P9H5rex5HWL/pFByoAUVjcoU03+34AqqvhOC353g
-epzAO9UKHCFFhD0NQj/kIa4SSylsul0ICTzRkc0sJ3Z/kZsEPfS0NWJIhiyIxmlC
-CtK9XU/b2NF+Pb7JT4EAR1ioTp/oNtOdg1JYuFaDVJMn0FNZAknd2tAriyAKHig3
-2m7ZmTibPIidQaSMd6nmQg6QbfHBnxpBbCPHGnxgGbqbBWZ5vvRiVicirm7ZMlQw
-1w+mozHFeQnHiWiVAzVTxCJAZlLR4iPCdFdsgzR9Q+ZtrYdxCzM=
-=S8pI
+iQIzBAEBCAAdFiEEfW0DbC7R6OyjEztdZcgjJbAZcsUFAmCLiloACgkQZcgjJbAZ
+csULfhAAsHtgK71yZRGwc8k28ItV+DCApmVXw2ja/eZBWscCTvLRNfhVaiJLF/dA
+RtihV2LlKX78AqrZz+hCF9Rj2i6xux30aAdnk7ym6RdJPw3UZ7+G+bffp9945Kx4
+aDqq54AbF8/d/ZVtmFV1w3kIgVI9f+xliaDtJA0HBR3adSftMG3af5wUNrIbSFxX
+UzBRYPwBb/iJci0ORM3HW6E+FyAg1HexJaNb4lHxNuyZzpWQuRgoHh/jk6tHgosh
+6+dPDYbb1iRcnMUy1wk7blDyoN5cfYbNTyHdS/YRekXMestp+vf0dNwqe72DhnQ2
+Zk9fnlm28lmPrrOmvTHlFpZFfzqEOuZAe/MEHXhiVwDp7dMjp4UJspjE74gUQlVF
+5YGWlfl1jG3i72j6Cv08pFwmW94clf0mjbja2aXoqlMfswUEKI5yMpSKyczY4c9L
+8Drezm3nA7sPW2sZDa5GOhEtZpMB6claXd2FrUad7kuldABF5wlnia6JquorLLkt
+gfrf3vceqCNCcnNariSa14lET5ld8aJY4dmMLxXtzsXTNweGAQoQy/1CbkQRXuId
+OqDby9iO9sKTBy/O4QzPk3aD2V6ccYHeJ7bC7fjs/cMyDaGLXQi9o/UX/HyodDEv
+EiRo/YsHifHRS0h7CKV0WJYAVtKNyNkolt+rHWnbEx6jm54cvLs=
+=bJB5
 -----END PGP SIGNATURE-----
