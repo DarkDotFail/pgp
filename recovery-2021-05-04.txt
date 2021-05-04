@@ -1,0 +1,68 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+DarkDotFail has regained control of the domain "dark.fail", the
+Twitter account "@DarkDotFail", the Reddit account "/u/DarkDotfail",
+and the email address "hello@dark.fail". Thank you Njalla for your
+tireless work in getting our hijacked domain back. The attacker was
+unable to get past 2FA on our Twitter, Reddit, and Email. They did
+not access any messages nor servers. Our OPSEC is fully intact.
+
+A phisher stole our domain and operated it for four days in a highly
+sophisticated attack that bypassed all security protocols we had in
+place, including 2FA. The attacker sent a fake German court order to
+Njalla's partner Tucows and convinced them to transfer our domain to 
+Namecheap. They then listed 68 phishing replicas of real sites on
+our domain, stealing an untold amount of cryptocurrency from these
+sites' researchers and users. They also hijacked DarknetLive.com.
+
+It took Namecheap four days to transfer our domain back to us.
+
+Read @brokep's summary of what happened for more information: 
+https://twitter.com/brokep/status/1389314362561777665
+
+Every site listed on the domain "dark.fail" from April 29th through
+May 4th 2021 was a man-in-the-middle phishing proxy. Each site
+looked real but instead shared all user activity with the attacker,
+including passwords and messages. Cryptocurrency addresses displayed
+on these sites were rewritten to addresses controlled by the phisher,
+intercepting many people's money.
+
+If you used links from the domain "dark.fail" between April 29th
+through May 4th you were phished and should rotate all passwords.
+
+DarkDotFail's .onion address was not affected by this attack. No
+phishing sites have ever been displayed there.
+
+As long as we are maintain a clearnet mirror, we cannot fully promise that
+this will not happen again. The domain name system is centralized and prone
+to human error and deceit.
+
+Always check /mirrors.txt and PGP verify it. Researchers that PGP verified
+sites before interacting with them during this attack outsmarted the phish.
+
+This unprecedented attack has set back our entire community. We are
+implementing ways to rely less on the antiquated domain name system
+used by the clearnet and to move to decentralized DNS alternatives.
+
+We are infuriated that our trusted name was used for harm.
+
+Devastated, motivated. Big changes are on their way.
+
+DarkDotFail
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEfW0DbC7R6OyjEztdZcgjJbAZcsUFAmCR3MsACgkQZcgjJbAZ
+csUwRQ/+KRSTF1DjFtMSBmsCufCw59gaso8Z1NZIHvTK1HwTnVYd1icpgvTc6Tsp
+KXDFxxp9Mb7iVEnjNUbTHWrItUOXmHGzXGTVr+j0WySgyxzA2Zkqn0xed6gKH8Hq
+DRaicajs4qH4ucInoO+hObN2tAFaugL868FF34wZPMD41JjmsSLz7uU+xAtsUWgT
+aRpjCETXfA/6qpyp98CxHtxSiFVpgj7z9B4uGU1LfwfTRdAvnrQSUV69TKMng7h8
+xT7vP1aRTacmfxMuQdI5OGRF6LdnV87fVDApn5PqWDvKv/LahSmhBdAdswHuJtK+
+9zZ936grXGI3EClzVeiUTITOOp+dacbSqebI0q+uCbJT9QkXhB2SwmYxYqoU7NcN
+xqo+qn1DqBTXO9sE51eKXjIHk6SedQdku19LkgsEwhFWVOMn9adbfW9UJHF6Kp2E
+nMSfV+XjeqwzP4NE6kvHVNVnZ/4u1HZWsMmYurJIgBTyKgU3lx81qTjbLzbnjMTY
+8IQmnXAq/r+Yyro3DLKfDkHlWKT+RrgMk3MMRYcvdgwfHYDDnKcIcu4n8/d4Bzpf
+HXrpQkRJu+VF34dL55dyOM2EVQb0K7nxbq5etZ18EbM3qwvhC3g75TTUrXMWdt+7
+SvPO4DuH/lKHlmV2s3y/J1SSAm42qcpDDYlNiw2KHNdLi9IOIYg=
+=Wzwf
+-----END PGP SIGNATURE-----
