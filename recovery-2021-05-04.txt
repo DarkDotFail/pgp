@@ -2,11 +2,11 @@
 Hash: SHA256
 
 If you visited sites listed on the clearnet domain "dark.fail"
-between April 29th through May 5th you were phished and should
+between April 29th through May 5th 2021 you were phished and should
 rotate all credentials immediately!
 
 DarkDotFail has regained control of the domain "dark.fail", the
-Twitter account "@DarkDotFail", the Reddit account "/u/DarkDotfail",
+Twitter account "@DarkDotFail", the Reddit account "/u/DarkDotFail",
 and the email address "hello@dark.fail". Thank you Njalla for your
 tireless work in getting our hijacked domain back. The attacker was
 unable to get past 2FA on our Twitter, Reddit, and Email. They did
@@ -28,7 +28,7 @@ Read @brokep's summary of what happened for more information:
 https://twitter.com/brokep/status/1389314362561777665
 
 Every site listed on the domain "dark.fail" from April 29th through
-May 4th 2021 was a man-in-the-middle phishing proxy. Each site
+May 5th 2021 was a man-in-the-middle phishing proxy. Each site
 looked real but instead shared all user activity with the attacker,
 including passwords and messages. Cryptocurrency addresses displayed
 on these sites were rewritten to addresses controlled by the phisher,
@@ -55,17 +55,17 @@ Devastated, motivated. Big changes are on their way.
 DarkDotFail
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEfW0DbC7R6OyjEztdZcgjJbAZcsUFAmCR7IUACgkQZcgjJbAZ
-csVa1g//X9gLN3UR5VSftjnPp+4OVqJF0Q9S0TerawUiDDOtr/AmVmrRT/qe6npc
-sfkosVLxHgULiPtaOiff37juDso5hDY7eMU6KLTLbmkmONMs4McuFObsILPAIet0
-rjjKww1SI84kQyTsabCgqIm6ezNWsve9trRj/SHGcwOhThWQ5z3FzTBo3ELRcYNc
-IcGpQ2IXoErtN9EmtPK36zN7UYxwL37lv6e7E4b/cuGvDQsKSkgvdYkIztT5JO23
-pnG1azirrzbbh2F4wpCvea1u8azQyfdYoFJboiBHBeNbSmRln7aiOAFbzY70/8yt
-NYeunPRbwMhnHPgGA+S7PHBTY+HfhtoNhGMfrubjXExdg7UQoMx0r9Izcrok+n/r
-wo7+K1IdfpnlZ/YNqDPmQXMSVo+dwnYQZiYg7oqkWPa7H5HUpwmSqCOEwel/EbLD
-adgoAXIJZiqzrIAdWEJymKm4aIor1i8Lvqu73/JKlkri80NaNCC0gw3P6up/yvDO
-bwqVLaN9iH9dOTKcBmmt1c0Mwq8mI10b5wAQnzV5/HG1ifcwr9/87OOpz9gIiVCr
-afaIGV2JBPtLVbfSkSPFkpuphae92qsEMzO/POwgUwCnUkEDQlUL3pnODFZjv+Az
-XsreCztj7iV8VpbCV83Dxv5x9wROVWnhOoNio/7QYmvsFJa2RTk=
-=WKEB
+iQIzBAEBCAAdFiEEfW0DbC7R6OyjEztdZcgjJbAZcsUFAmCR9w0ACgkQZcgjJbAZ
+csW8WRAArtcUkkIu/12fiFfv0gt7FDNM6shzwgBpb7DBOTX5P0PIm78V5wxB1VVB
+dTBn43o9YRQY95prUnoZ1tYTC5Y+EmetvLgK/ZBaWiSS/pqMTvlIuIgKYInzz4ps
+8ws6b+E/4WnhFmXuBeVz/CiL20sQum50hKTWRotFLlpAuxrMTr4VYrwAk1JZV96l
+3c54dWg/aP4cXvtQCuiXL94iY/TNiXUJ+nxT/QJLSALh0PS2lhQtmPCgYKT6smnK
+nUBB3o/S2y3McNue4NSisFA2Qw6qbrUh/LEBWRi9e8cCIdpkWcO809Y1lDpY+R+I
+AKfxB072I54ZNuLuIG2iWwVftcTqBKmV0ePPubfc0nKzpkyzT/8LmhzWfk9bY/BV
+I4WjJrDl4llbun2Ip8uUEugri95Frl3hLr21qipBML4fe6poqvrGepM2ZXlZpzwS
+TAtc5uBZDE5XrOl3vGJetF/uBu+YQBPiFsxxXrUQvE7bzPnwB4wvGDJ3T6lIJXED
+9MXpU4p+2Vk9VbBUIJL1L2lz9tpkCtNXAfwCkunipOZo+VPGbAeanKqtOn71UwqH
+TYNJvKF3WoUh0mqQo3e49JJDgHSJjNO6+aYqJqJXobdycZBtjdwM9Oz+FMwwHw44
+512S21KENWFm4JajVC8S3Qg0Uu9Im+X5HKsh2QffXs3K306pKEE=
+=5CMK
 -----END PGP SIGNATURE-----
