@@ -1,12 +1,18 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
+If you visited sites listed on the clearnet domain "dark.fail"
+between April 29th through May 5th you were phished and should
+rotate all credentials immediately!
+
 DarkDotFail has regained control of the domain "dark.fail", the
 Twitter account "@DarkDotFail", the Reddit account "/u/DarkDotfail",
 and the email address "hello@dark.fail". Thank you Njalla for your
 tireless work in getting our hijacked domain back. The attacker was
 unable to get past 2FA on our Twitter, Reddit, and Email. They did
-not access any messages nor servers. Our OPSEC is fully intact.
+not access any existing messages nor servers. Emails sent to any
+address @dark.fail during the attack were received by the attacker.
+Our .onion site was not compromised. Our OPSEC is fully intact.
 
 A phisher stole our domain and operated it for four days in a highly
 sophisticated attack that bypassed all security protocols we had in
@@ -27,9 +33,6 @@ looked real but instead shared all user activity with the attacker,
 including passwords and messages. Cryptocurrency addresses displayed
 on these sites were rewritten to addresses controlled by the phisher,
 intercepting many people's money.
-
-If you used links from the domain "dark.fail" between April 29th
-through May 4th you were phished and should rotate all passwords.
 
 DarkDotFail's .onion address was not affected by this attack. No
 phishing sites have ever been displayed there.
@@ -52,17 +55,17 @@ Devastated, motivated. Big changes are on their way.
 DarkDotFail
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEfW0DbC7R6OyjEztdZcgjJbAZcsUFAmCR3MsACgkQZcgjJbAZ
-csUwRQ/+KRSTF1DjFtMSBmsCufCw59gaso8Z1NZIHvTK1HwTnVYd1icpgvTc6Tsp
-KXDFxxp9Mb7iVEnjNUbTHWrItUOXmHGzXGTVr+j0WySgyxzA2Zkqn0xed6gKH8Hq
-DRaicajs4qH4ucInoO+hObN2tAFaugL868FF34wZPMD41JjmsSLz7uU+xAtsUWgT
-aRpjCETXfA/6qpyp98CxHtxSiFVpgj7z9B4uGU1LfwfTRdAvnrQSUV69TKMng7h8
-xT7vP1aRTacmfxMuQdI5OGRF6LdnV87fVDApn5PqWDvKv/LahSmhBdAdswHuJtK+
-9zZ936grXGI3EClzVeiUTITOOp+dacbSqebI0q+uCbJT9QkXhB2SwmYxYqoU7NcN
-xqo+qn1DqBTXO9sE51eKXjIHk6SedQdku19LkgsEwhFWVOMn9adbfW9UJHF6Kp2E
-nMSfV+XjeqwzP4NE6kvHVNVnZ/4u1HZWsMmYurJIgBTyKgU3lx81qTjbLzbnjMTY
-8IQmnXAq/r+Yyro3DLKfDkHlWKT+RrgMk3MMRYcvdgwfHYDDnKcIcu4n8/d4Bzpf
-HXrpQkRJu+VF34dL55dyOM2EVQb0K7nxbq5etZ18EbM3qwvhC3g75TTUrXMWdt+7
-SvPO4DuH/lKHlmV2s3y/J1SSAm42qcpDDYlNiw2KHNdLi9IOIYg=
-=Wzwf
+iQIzBAEBCAAdFiEEfW0DbC7R6OyjEztdZcgjJbAZcsUFAmCR7IUACgkQZcgjJbAZ
+csVa1g//X9gLN3UR5VSftjnPp+4OVqJF0Q9S0TerawUiDDOtr/AmVmrRT/qe6npc
+sfkosVLxHgULiPtaOiff37juDso5hDY7eMU6KLTLbmkmONMs4McuFObsILPAIet0
+rjjKww1SI84kQyTsabCgqIm6ezNWsve9trRj/SHGcwOhThWQ5z3FzTBo3ELRcYNc
+IcGpQ2IXoErtN9EmtPK36zN7UYxwL37lv6e7E4b/cuGvDQsKSkgvdYkIztT5JO23
+pnG1azirrzbbh2F4wpCvea1u8azQyfdYoFJboiBHBeNbSmRln7aiOAFbzY70/8yt
+NYeunPRbwMhnHPgGA+S7PHBTY+HfhtoNhGMfrubjXExdg7UQoMx0r9Izcrok+n/r
+wo7+K1IdfpnlZ/YNqDPmQXMSVo+dwnYQZiYg7oqkWPa7H5HUpwmSqCOEwel/EbLD
+adgoAXIJZiqzrIAdWEJymKm4aIor1i8Lvqu73/JKlkri80NaNCC0gw3P6up/yvDO
+bwqVLaN9iH9dOTKcBmmt1c0Mwq8mI10b5wAQnzV5/HG1ifcwr9/87OOpz9gIiVCr
+afaIGV2JBPtLVbfSkSPFkpuphae92qsEMzO/POwgUwCnUkEDQlUL3pnODFZjv+Az
+XsreCztj7iV8VpbCV83Dxv5x9wROVWnhOoNio/7QYmvsFJa2RTk=
+=WKEB
 -----END PGP SIGNATURE-----
