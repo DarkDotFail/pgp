@@ -1,12 +1,20 @@
 # DarkDotFail's PGP Keys
 
-I rotate PGP keys once per year as a standard OPSEC safety ritual.
+My current PGP key can be found here, at /pgp.txt on my website, and at [keybase.io/darkdotfail](keybase.io/darkdotfail)
 
-My current PGP key can be found here, at [dark.fail/pgp.txt](dark.fail/pgp.txt), and at [keybase.io/darkdotfail](keybase.io/darkdotfail)
+The domain "Dark.fail" was stolen from me before with a faked court order then returned. I consider clearnet domains powered by the antiquated DNS system to be unsafe.
 
-All previous keys have been revoked. Do not encrypt communications to my old keys, I will not read them.
+The primary version of site is only accessible on Tor:
 
-My current key, fingerprint: 7D6D 036C 2ED1 E8EC A313  3B5D 65C8 2325 B019 72C5
+http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion
+
+Verify my site mirrors before trusting them by checking the PGP signature of /mirrors.txt on any domain that you believe to be mine.
+
+## Current key
+
+Consider all previous keys to be revoked. Do not encrypt communications to my old keys, I will not read them.
+
+My current key, fingerprint: 7D6D 036C 2ED1 E8EC A313 3B5D 65C8 2325 B019 72C5
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -22,20 +30,20 @@ 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
-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
+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
@@ -46,19 +54,19 @@ mXcux7BLLL29WHr+wbKC2+oJ//nSCpvkMc5DpoQReEhVvd9ypawzmwVY9TZzuDHv
 I8ciRV9CUMuS+/D0ke4WhnAmH0pQ5LNpDtcxxjZvRWvHvoy3H2llbFUcgvOj96zo
 ScFZKvZm67KnR9ONiIkEpSKHp0TMeNCjoBWM+MaNWSMOxM7f2tJJicllWRiq2pzg
 8IiOyUHovl8kS1Wn3kVadOo2446Cbgld6mlhhC9Sn0FyWeReD8f9Alm1J4OeHX5K
-ewARAQABiQI8BBgBCgAmFiEEfW0DbC7R6OyjEztdZcgjJbAZcsUFAl9SStACGwwF
-CQHhM4AACgkQZcgjJbAZcsWRsA/8CntHz/hlX/qmHMr77yIr8UmIvWqD+kln5/hU
-aKq6r6HFfCQ+T4YC4BHRupnwb4bi0xHg8CvVzpU7fmhNE/Hzr9AtL+ujJ4pnCYmb
-u/Q7TPnrdBGen/NtF6vEMTbNLwbBkEDJKMHjFYvv9s8LPg79enY2+KcYMm810sJN
-zk38r06JQJ+BD/Hew97XD2/EQQG57va7It1o+UliHBuxfOjqEplrevD0+jpeTpxt
-ZWsTF2dTahiGT6tBeivyWNeac16YNH7pxAymci530/JhBJllZLPtoNnLK70Qivxj
-JsYQcKl378Lz9dgxvEnQ+tEzpxC2Bhe/LT1hVp456pS+vu9c8cSJx1Q7C90PPPEd
-3iVGrldb1x1YUSFNvDoRVFlSwmiViGaAwZSVhaVRoXrOotw0uUkaLsbGkspjuV4C
-BZB9kRcoY9ZNmQU6zHqc7eBVX9d8eKqwNopJTS4UV2LViOdPm4s8P+UdppRjlVDm
-RmmukcnIoNZfjwyhWyZlBmrT56VRZljuUcb4KhBRV2m6lK3i/MaoJpisL18uoezc
-xeiszqwreoKEHaH8RtANoeQ9tcfeP2LxJ+PrFNnMI2N0FjsmCg+Ngiu2LF8TwBqr
-YyNclSvZJG92YI20HzFRYKTnXXektxdI5S6abfblkaZ/LH2pLk4kXrV90qP5NOtU
-fMr73ok=
-=cD7I
+ewARAQABiQI8BBgBCgAmAhsMFiEEfW0DbC7R6OyjEztdZcgjJbAZcsUFAmW2i+MF
+CQgjjC4ACgkQZcgjJbAZcsVqCBAApF7rMW1ja1w13UybHyJwBR96H+91AhaerL0T
+pWJpLisZ1UfYhmMDY7+HYU9VDY4yUbSW3vOPVY9RLFAsCQ7QTFN17tZP2qTOOI7e
+C5aC2MbLcaTfQz7cDHCLpmjiJXkiiA4+xx+PxUUEh+oEQiMli6fTEVVuYjZr9zTD
+hSnR08QW/FL/0zc73uFoDjOYLbWx5ClkMb8uJiOCWEipED7kjUKPXf3AdptlZq8B
+AZDEPhgxCvwjjQ44qE6DAIesaqsApq4DvQOJJBEOJ6Q/zZjV8IMF3ZNHAjrQreRL
+yjr+0Or7NNPaHs/cLoUvMVbvwjb5MW1JsJd9exvuXc7lbxW1+X5yaC4zLO4revQ6
+P7YIuYoG1gRWBzH8lniA6QsqR8Bgu1zGcBMEmXww2IpZobHeWs+5+TXV6jyEYc+I
+6G/hrXC3K+4v47/FiC+i41LUq52l3ZzfBKdS9XdVMiSAeGBfdpDQ16rHj6KWdmTd
+Kaf6auUTBTmPdXfpO1bdftaWZbtJbbNChOQc5buohSB2S4o1uFoJzIEn4SWw80yl
+H6/DoS6cRPlIHEA/DS3i1PYjcHlEvUPitFxEPC9sc4TCvZCjeJBiJ1RyBDBzMlmw
+bLjuiFG/XsMt0kkbPvUP5QKbC2fMByEHH7DBXN/apGo5ExwmaKdGY/TP7p8nLbIn
+hJBvakE=
+=s6Sd
 -----END PGP PUBLIC KEY BLOCK-----
 ```
