@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion
+http://darkrwolfcgyievbsoiyvzjjdyc36go5uhqyau7bt4wwg3s5irha.b32.i2p
+
+# This is the valid /mirrors.txt file for Dark.fail and an example of the OMG standard:
+# - https://dark.fail/spec/omg.txt
+# - (mirror) https://raw.githubusercontent.com/DarkDotFail/archive/main/spec/omg.txt
+#
+# Mirrors.txt Rules:
+#  - Mirrors must be signed by a PGP key which is in /pgp.txt hosted at all of your URLs.
+#  - Any line in this file which begins with “http://“ or “https://“ is an official mirror of your site.
+#  - Mirrors must all host the same content. No forums, no link lists. Place those in /related.txt following these same standards.
+#  - All valid mirrors must only contain a scheme and domain name, no ports or paths.
+#  - /pgp.txt and /mirrors.txt must have the same content on all of your URLs.
+#  - Text which is not intended to be parsed as an official mirror must be commented out with a “#” as the first character on the line.
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEfW0DbC7R6OyjEztdZcgjJbAZcsUFAmW2jegACgkQZcgjJbAZ
+csXLjRAApwu0r7j/NCBIEBAyobD9N6L/UENZN2aUgVvsokUUWXPrSf5rXRRhh/15
+dEQQSTHxJ9/47o1SkrUmxJVANBgOaGzEMe6cibY09v+ywso/iBUYPXF93dPTNAmt
+ZDt25NuKlOMoS2u9r/V2TZQeBkaRRkn8UWJAxEqnqy8hdavKXFTfJ0rv8sqSTYYc
+ZfnM9v1NdYkhLKwfvpVlkPzuX/3fDXiCUOmFPkAXVdnQe++U/9G7SUCe07/kZcoC
+VYvfidKkvTO3FGMUGyF0FI9/05DdA3xRB5HNq30+4VgKNHLfttPxHKWrUtOOmbbD
+fADGTMRk+tuEz1TCLPu1i2i0QIIKkYl0AFOjVs4qS+Xa3kyQFokgOK4V8jyM3Wiv
+SBheYh1H8tud01+9XQJ0iOTh3g3R+mDi6FErXMAQQC9+H2YQZk+x4XbP+SXZevow
+PDDkVH7obdn5MGW3gQg0EEv9Rn8yvNxK2kGrSepyPKcw8ckc76JOr4Dj2RIo4U6m
+69wosNbgZdIl5HpMNWjjISkSGAcSQ23btXo4bzI4tR9/n3D6VOJTZyd+bZayod3c
+tuTSlUWNIzQEYHoAeqwdYRf5LHFkRwza+qfP6Jmgbu+hqiYDJQAqh7fJ2JD5p6WW
+yuLtY6LSG2wgRhPwjAjNJNc9TT0Xv0a18TWKeJ5FlJzT4JFPWSE=
+=5sUi
+-----END PGP SIGNATURE-----
